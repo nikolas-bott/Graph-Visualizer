@@ -1,0 +1,14 @@
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\bin\Debug\net9.0\firstporgram.exe
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\bin\Debug\net9.0\firstporgram.deps.json
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\bin\Debug\net9.0\firstporgram.runtimeconfig.json
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\bin\Debug\net9.0\firstporgram.dll
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\bin\Debug\net9.0\firstporgram.pdb
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0\firstporgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0\firstporgram.AssemblyInfoInputs.cache
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0\firstporgram.AssemblyInfo.cs
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0\firstporgram.csproj.CoreCompileInputs.cache
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0\firstporgram.dll
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0\refint\firstporgram.dll
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0\firstporgram.pdb
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0\firstporgram.genruntimeconfig.cache
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0\ref\firstporgram.dll

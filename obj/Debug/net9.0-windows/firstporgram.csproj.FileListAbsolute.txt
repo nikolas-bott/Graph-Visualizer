@@ -1,0 +1,14 @@
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0-windows\firstporgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0-windows\firstporgram.AssemblyInfoInputs.cache
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0-windows\firstporgram.AssemblyInfo.cs
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0-windows\firstporgram.csproj.CoreCompileInputs.cache
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\bin\Debug\net9.0-windows\firstporgram.exe
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\bin\Debug\net9.0-windows\firstporgram.deps.json
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\bin\Debug\net9.0-windows\firstporgram.runtimeconfig.json
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\bin\Debug\net9.0-windows\firstporgram.dll
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\bin\Debug\net9.0-windows\firstporgram.pdb
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0-windows\firstporgram.dll
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0-windows\refint\firstporgram.dll
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0-windows\firstporgram.pdb
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0-windows\firstporgram.genruntimeconfig.cache
+C:\Users\nikol.DESKTOP-MKDI0N5\Desktop\Pogrammierung\Privat\Tests\C#\firstporgram\obj\Debug\net9.0-windows\ref\firstporgram.dll
